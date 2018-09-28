@@ -1,0 +1,4 @@
+﻿  3-6.cpp
+c:\users\박미선\documents\github\cprogchap3assignment-qat4469\201645913chap3assignment\201645913chap3assignment\3-6.cpp(5): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  201645913chap3assignment.vcxproj -> C:\Users\박미선\Documents\GitHub\cprogchap3assignment-qat4469\201645913chap3assignment\Debug\201645913chap3assignment.exe
+  201645913chap3assignment.vcxproj -> C:\Users\박미선\Documents\GitHub\cprogchap3assignment-qat4469\201645913chap3assignment\Debug\201645913chap3assignment.pdb (Partial PDB)
